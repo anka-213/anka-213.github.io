@@ -1,0 +1,16 @@
+Configuring base-compat-0.9.1...
+Building base-compat-0.9.1...
+Preprocessing library base-compat-0.9.1...
+[ 1 of 37] Compiling Text.Read.Compat ( src/Text/Read/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Read/Compat.o )
+[ 2 of 37] Compiling System.IO.Unsafe.Compat ( src/System/IO/Unsafe/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/System/IO/Unsafe/Compat.o )
+[ 3 of 37] Compiling System.Exit.Compat ( src/System/Exit/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/System/Exit/Compat.o )
+[ 4 of 37] Compiling System.Environment.Compat ( src/System/Environment/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/System/Environment/Compat.o )
+[ 5 of 37] Compiling Prelude.Compat   ( src/Prelude/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Prelude/Compat.o )
+[ 6 of 37] Compiling Numeric.Compat   ( src/Numeric/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Numeric/Compat.o )
+[ 7 of 37] Compiling Foreign.Marshal.Unsafe.Compat ( src/Foreign/Marshal/Unsafe/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/Marshal/Unsafe/Compat.o )
+[ 8 of 37] Compiling Foreign.Marshal.Safe.Compat ( src/Foreign/Marshal/Safe/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/Marshal/Safe/Compat.o )
+[ 9 of 37] Compiling Foreign.Marshal.Utils.Compat ( src/Foreign/Marshal/Utils/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/Marshal/Utils/Compat.o )
+[10 of 37] Compiling Foreign.Marshal.Array.Compat ( src/Foreign/Marshal/Array/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/Marshal/Array/Compat.o )
+[11 of 37] Compiling Foreign.Marshal.Alloc.Compat ( src/Foreign/Marshal/Alloc/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/Marshal/Alloc/Compat.o )
+[12 of 37] Compiling Foreign.ForeignPtr.Unsafe.Compat ( src/Foreign/ForeignPtr/Unsafe/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/ForeignPtr/Unsafe/Compat.o )
+[13 of 37] Compiling Foreign.ForeignPtr.Safe.Compat ( src/Foreign/ForeignPtr/Safe/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Foreign/ForeignPtr/Safe/Compat.o )
